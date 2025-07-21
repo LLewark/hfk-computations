@@ -1,6 +1,6 @@
 ## What is this repository for?
 
-This repository contains calculations for the paper _Smoothly slice knots with Alexander polynomial one and high unknotting number_.
+This repository contains calculations for the paper _Smoothly slice knots with Alexander polynomial 1 and high unknotting number_.
 
 ### Detailed description of the calculations
 
